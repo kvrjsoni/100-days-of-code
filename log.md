@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 17, 2021 (Example 1)
+### Day 0: March 17, 2021
 
 **Today's Progress**: Initialization of the task, planning and figuring out what to pick up for the next 100 days.
 
